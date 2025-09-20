@@ -14,8 +14,11 @@ Through this adversarial process, the generator improves at producing images tha
 files : 
 
 monet_paintings : file containing 300 images of Monet's artwork 
+
 photos : file containing 7038 pictures ready to be transformed into fake Monet paintings 
 
 image_processing.py : taking the image datasets as inputs and converting images to tensors ready for machine learning 
+
 models.py : building the Generator and Discriminator model classes 
+
 train.py : training the models with adversion process and returning the fake painting  
