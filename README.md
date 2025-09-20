@@ -1,6 +1,6 @@
 # GAN-Monet-Paintings-Generator
 
-In this project, I build a Generative Adversarial Network (GAN) to transform any picture into a Monet-style painting.
+In this project, I build a **Generative Adversarial Network (GAN)** to transform any picture into a Monet-style painting.
 
 How does a GAN work?
 A GAN is composed of two neural networks trained together in opposition:
